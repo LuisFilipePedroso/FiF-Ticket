@@ -11,7 +11,7 @@ export default function Ticket({ user }: Props) {
 
   return (
     <div className="flex flex-col items-center justify-center h-full w-full">
-      <img className="rounded-lg" src={`http://localhost:3000/api/og?image=${image}&username=${username}`} />
+      <img className="rounded-lg" src={`${process.env.HOST}/api/og?image=${image}&username=${username}`} />
 
       <button onClick={() => signOut()} className="mt-2 bg-transparent p-2 w-64 rounded-lg text-gray-900 font-normal text-lg">Logout</button>
     </div>
