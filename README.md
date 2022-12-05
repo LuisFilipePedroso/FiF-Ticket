@@ -5,3 +5,5 @@
 ## Saiba mais
 
 [Conheça os detalhes desse projeto](https://youtu.be/sdrtTtWXIfM)
+
+[Crie seu crachá](https://front-in-floripa-ticket.vercel.app/)
