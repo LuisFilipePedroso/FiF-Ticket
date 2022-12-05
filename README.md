@@ -4,6 +4,6 @@
 
 ## Saiba mais
 
-[Conheça os detalhes desse projeto](https://youtu.be/sdrtTtWXIfM)
+[Conheça os detalhes desse projeto](https://youtu.be/sdrtTtWXIfM){:target="_blank"}
 
-[Crie seu crachá](https://front-in-floripa-ticket.vercel.app/)
+[Crie seu crachá](https://front-in-floripa-ticket.vercel.app/){:target="_blank"}
